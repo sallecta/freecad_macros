@@ -5,4 +5,4 @@
 area = 0
 for face in Gui.Selection.getSelectionEx()[0].SubObjects:
     area = area + face.Area
-print("area = " + repr(area/1000000) + "m2")
+print("area = " + repr(area/1000000) + " m2")
