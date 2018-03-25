@@ -1,2 +1,2 @@
-# freecad_macros
+# freecad_macroses
 Simple macroses for FreeCAD
